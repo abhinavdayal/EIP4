@@ -1,4 +1,6 @@
 # EIP4
+Score **99.50%**
+[0.030534973314906573, 0.995]
 
 # My definitions
 1. **Convolution**: A process of swiping a filter over input and recording each output such that entire input is procesed.
